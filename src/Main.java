@@ -19,17 +19,19 @@ public class Main {
         Map<BigDecimal, ArrayList<room>> mostExpensivePrivateRoom = new HashMap<>();
         Map<BigDecimal, ArrayList<room>> roomsWithLondonInName = new HashMap<>();
 
-        s.nextLine();
+        s.nextLine(); // preskace header
 
         while (s.hasNextLine()) {
             String line = s.nextLine();
             String[] elements = line.split("\t");
+            System.out.println(line); //zasto je ovdje uvijek 10
 
             if (elements.length < 10) {
                 fw.write(line);
                 s.nextLine(); //skip the element which doesn't contain all the parameters and store it in a separate file
-                fw.write("\n"); //when is the stream closed
+                fw.write("\n");
             } else {
+                //System.out.println(elements[9]);
                 //here, some elements such as the element with the id of 9975003 gets skipped for some reason
                 if (Double.parseDouble(elements[9]) >= 7) {
                     BigDecimal id = new BigDecimal(elements[0].trim());
@@ -93,12 +95,12 @@ public class Main {
 //            System.out.println(entry); //doesn't work - nothing is sorted by price
 //        }
 
-        filew.write("The cheapest shared room is: " + cheapestSharedRoom.entrySet().iterator().next() + "\n");
-        filew.write("The most expensive private room is: " + mostExpensivePrivateRoom.entrySet().iterator().next() + "\n");
-
-        for (Map.Entry<BigDecimal, ArrayList<room>> entry : roomsWithLondonInName.entrySet()) {
-            Collections.sort(entry.getValue());
-        }
+//        filew.write("The cheapest shared room is: " + cheapestSharedRoom.entrySet().iterator().next() + "\n");
+//        filew.write("The most expensive private room is: " + mostExpensivePrivateRoom.entrySet().iterator().next() + "\n");
+//
+//        for (Map.Entry<BigDecimal, ArrayList<room>> entry : roomsWithLondonInName.entrySet()) {
+//            Collections.sort(entry.getValue());
+//        }
 //        for (Map.Entry<BigDecimal, ArrayList<room>> entry : roomsWithLondonInName.entrySet()) {
 //            System.out.println(entry); //doesn't work - nothing is sorted by price
 //        }

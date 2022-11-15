@@ -1,2 +1,0 @@
-The cheapest shared room is: 6.22318E+17=[room{name='Single large room 1 in shared house', lat=51.574753, lon=-0.008438, price=30, type='Shared room', id=6.22318E+17}]
-The most expensive private room is: 9664197=[room{name='Cosy room in welcoming house', lat=51.56245, lon=-0.06489, price=25, type='Private room', id=9664197}]
