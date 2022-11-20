@@ -1,0 +1,4 @@
+The cheapest shared room: room{name='Shared room', lat=51.35491, lon=-0.06737, price=7, type='Shared room'}
+The most expensive private room in 10km radius of Big Ben: room{name='"Big Single Room Near Stratford, East London"', lat=51.55067667, lon=0.011295403, price=25000, type='Private room'}
+The median of all rooms that have London in their name: room{name='Light and spacious flat in South East London', lat=51.46548, lon=-0.02151, price=95, type='Entire home/apt'}and 
+room{name='Stylish Victorian House -2 bedrooms in East London', lat=51.55766, lon=0.01241, price=95, type='Entire home/apt'}

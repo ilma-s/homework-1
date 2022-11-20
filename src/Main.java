@@ -1,9 +1,6 @@
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.reflect.Array;
-import java.math.BigDecimal;
-import java.math.BigInteger;
 import java.util.*;
 
 public class Main {
@@ -11,100 +8,64 @@ public class Main {
         File file = new File("airbnb.txt");
         Scanner s = new Scanner(file);
 
-        FileWriter fw = new FileWriter("error_lines.txt");
-        fw.write("name, latitude, longitude, type, price)\n");
+        FileWriter fw = new FileWriter("error_lines.txt"); // a new file containing the erroneous files
 
-        ArrayList<room> rooms = new ArrayList<>(); //array list to store all the rooms
-        Map<BigDecimal, ArrayList<room>> cheapestSharedRoom = new HashMap<>();
-        Map<BigDecimal, ArrayList<room>> mostExpensivePrivateRoom = new HashMap<>();
-        Map<BigDecimal, ArrayList<room>> roomsWithLondonInName = new HashMap<>();
+        //a map doesn't need to be used because we don't need to work with every line in the file and every type of room
+        ArrayList<room> LondonRooms = new ArrayList<>(); //an arraylist containing rooms with London in their name
+        ArrayList<room> cheapestShared = new ArrayList<>(); // an arraylist containing all shared rooms
+        ArrayList<room> mostExpensivePrivate = new ArrayList<>(); //an arraylist containing all private rooms
 
-        s.nextLine(); // preskace header
+        s.nextLine();
 
         while (s.hasNextLine()) {
             String line = s.nextLine();
             String[] elements = line.split("\t");
-            System.out.println(line); //zasto je ovdje uvijek 10
 
-            if (elements.length < 10) {
+            if (elements.length < 10) { //write the incomplete lines into a separate file
                 fw.write(line);
-                s.nextLine(); //skip the element which doesn't contain all the parameters and store it in a separate file
                 fw.write("\n");
             } else {
-                //System.out.println(elements[9]);
-                //here, some elements such as the element with the id of 9975003 gets skipped for some reason
-                if (Double.parseDouble(elements[9]) >= 7) {
-                    BigDecimal id = new BigDecimal(elements[0].trim());
+                if (Double.parseDouble(elements[9]) <= 7) {
                     String name = elements[1].trim();
                     Double lat = Double.parseDouble(elements[5].trim());
                     Double lon = Double.parseDouble(elements[6].trim());
                     String type = elements[7].trim();
                     Integer price = Integer.parseInt(elements[8].trim());
 
-                    rooms.add(new room(id, name, lat, lon, type, price)); //add the room to the array list of all rooms
+                    room r = new room(name, lat, lon, type, price); //create a new instance of a room class
 
-                    if (type.equals("Shared room")) {
-                        if (!cheapestSharedRoom.containsKey(id)) {
-                            cheapestSharedRoom.put(id, new ArrayList<>()); //add an element to the map: new blank key-value pair
-                        }
-
-                        room r = new room(id, name, lat, lon, type, price);
-                        cheapestSharedRoom.get(id).add(r); //dodaje u array listu
+                    if (type.equals("Private room") && r.distanceFromBigBen()) { //if the object is a private room within a 10km radius from Big Ben, add it to the array
+                        mostExpensivePrivate.add(r);
                     }
 
-                    //System.out.println(id);
-
-                    if (type.equals("Private room") && room.distanceFromBigBen(lat, lon)) {
-                        if (!mostExpensivePrivateRoom.containsKey(id)) {
-                            mostExpensivePrivateRoom.put(id, new ArrayList<>());
-                        }
-
-                        room r = new room(id, name, lat, lon, type, price);
-                        mostExpensivePrivateRoom.get(id).add(r);
+                    if(type.equals("Shared room")) { //if the object is a shared room, add it to the array
+                        cheapestShared.add(r);
                     }
 
-                    if (room.hasLondonInName(name)) {
-                        if (!roomsWithLondonInName.containsKey(id)) {
-                            roomsWithLondonInName.put(id, new ArrayList<>());
-                        }
-
-                        room r = new room(id, name, lat, lon, type, price);
-                        roomsWithLondonInName.get(id).add(r);
+                    if (name.contains("London")) { //add a room containing London in its name in the respective array
+                            LondonRooms.add(r);
                     }
-                } else {
-                    s.nextLine(); //skip the line with less than 7 nights
+
                 }
             }
         }
-        FileWriter filew = new FileWriter("report.txt");
 
+        Collections.sort(cheapestShared); //sort the cheapest shared rooms in ascending order
+        Collections.sort(mostExpensivePrivate); //sort the most expensive private rooms in ascending order
+        Collections.reverse(mostExpensivePrivate); //reverse the order of the most expensive private rooms to get the most expensive one at the top
+        Collections.sort(LondonRooms); //sort all the rooms containing London in their name by their price
 
-        for (Map.Entry<BigDecimal, ArrayList<room>> entry : cheapestSharedRoom.entrySet()) {
-            Collections.sort(entry.getValue());
+        FileWriter fw1 = new FileWriter("report.txt");
+        fw1.write("The cheapest shared room: " + cheapestShared.get(0) + "\n"); //write the cheapest shared room into the report
+        fw1.write("The most expensive private room in 10km radius of Big Ben: " + mostExpensivePrivate.get(0) + "\n"); //write the most expensive private room in the 10km-radius of Big Ben into the report
+
+        //writing the median of the array of rooms containing London in their name into the report
+        if(LondonRooms.size() % 2 != 0) { //if the length of the array is odd, the median is the exact middle element
+            fw1.write("The median of all rooms that have London in their name: " + LondonRooms.get(LondonRooms.size() / 2) + "\n");
+        } else { //the median of an even-length array are the 2 middle elements
+            fw1.write("The median of all rooms that have London in their name: " + LondonRooms.get(LondonRooms.size() / 2) + "and \n" + LondonRooms.get(LondonRooms.size() / 2 - 1)+ "\n");
         }
+        fw1.close();
 
-//        for (Map.Entry<BigDecimal, ArrayList<room>> entry : cheapestSharedRoom.entrySet()) {
-//            System.out.println(entry); //doesn't work - nothing is sorted by price
-//        }
-
-        for (Map.Entry<BigDecimal, ArrayList<room>> entry : mostExpensivePrivateRoom.entrySet()) {
-            Collections.reverse(entry.getValue());
-        }
-
-//        for (Map.Entry<BigDecimal, ArrayList<room>> entry : mostExpensivePrivateRoom.entrySet()) {
-//            System.out.println(entry); //doesn't work - nothing is sorted by price
-//        }
-
-//        filew.write("The cheapest shared room is: " + cheapestSharedRoom.entrySet().iterator().next() + "\n");
-//        filew.write("The most expensive private room is: " + mostExpensivePrivateRoom.entrySet().iterator().next() + "\n");
-//
-//        for (Map.Entry<BigDecimal, ArrayList<room>> entry : roomsWithLondonInName.entrySet()) {
-//            Collections.sort(entry.getValue());
-//        }
-//        for (Map.Entry<BigDecimal, ArrayList<room>> entry : roomsWithLondonInName.entrySet()) {
-//            System.out.println(entry); //doesn't work - nothing is sorted by price
-//        }
-
-        //sorting by price doesnt work
     }
 }

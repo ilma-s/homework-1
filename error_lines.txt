@@ -1,183 +1,358 @@
-name, latitude, longitude, type, price)
+314066	"North London(double private room)
 Zone 3"	1613803	Talat And Nalan	Haringey	51.60134	-0.08688	Private room	26	1
 3328248	"Beautiful Georgian property
+Bloomsbury/Kings Cross"	16582435	Helen	Camden	51.5258	-0.12724	Entire home/apt	128	5
 4478623	"Large Artsy Mansion 
+London Unique Stay+ hippy hut"	18125906	Roo	Haringey	51.57638168	-0.115142003	Private room	75	3
 7049738	"Room with a view nice neighbourhood !
+(W’s only)."	30399625	Fátima	Hackney	51.57202	-0.0843	Private room	32	3
 9041832	"Chelsea single room light& cosy
+- central & safe!"	33961000	Kristiane	Kensington and Chelsea	51.48046	-0.18156	Private room	41	2
 10239553	"Stylish. Panoramic city views.
+No cleaning fee."	48158457	Ann & Steve	Greenwich	51.47734	0.07359	Entire home/apt	80	5
+10957838	"Bright airy double room
 
+A clean comfortable large double room in a lovely roomy house in Harrow and Wealdstone. TV in room including broadband .  Shared bathroom.  Five minutes walk to Harrow and Wealdstone train station and 12 minutes into
 London Euston"	56836091	Yvonne	Harrow	51.59475	-0.33166	Private room	35	3
+11410311	"Double bedroom in London
 Wi-Fi free"	59905077	Davide	Southwark	51.49777	-0.05807	Private room	32	1
+13893646	"Double bedroom in isleworth!
 Short distance to SKY"	77193733	Marta	Hounslow	51.47645	-0.34536	Private room	49	1
 15901067	"Large En-Suite Room With View
+& Light Breakfast"	25113334	Mary & Gigi	Tower Hamlets	51.52592	-0.0202	Private room	63	2
+16062141	"Modern 1 Bedroom
 Serviced Apartment with balcony"	24789124	Olivia	Tower Hamlets	51.53311	-0.0574	Entire home/apt	250	2
+16265518	"Balham/Clapham Room-
 Recent New Bed"	106368202	Tara	Lambeth	51.44407	-0.13465	Private room	26	5
+17666039	"Amazing clean home
 excellent transport location."	120247942	Noble	Enfield	51.66535413	-0.080968079	Private room	39	1
+18371539	"Lovely Double/Triple room
 Close to Tower Bridge"	78902919	Jonathan	Tower Hamlets	51.5151	-0.04368	Private room	55	5
 18381422	"Nice Double bedroom in Pinner!
+(HA51JP)"	94760262	Elizabeth	Harrow	51.57518	-0.38608	Private room	41	3
+19093817	"SWEET room
  close to LIMEHOUSE STATION"	78902919	Jonathan	Tower Hamlets	51.51383	-0.04226	Private room	64	5
 19755686	"Ideal for a family of  3-4
+10min to Hendon station"	137786890	Syed	Barnet	51.5877	-0.23495	Entire home/apt	54	2
+19935201	"Bright Spacious Room in
 Kensal Green
+Females only"	139720934	Sarah	Brent	51.53344	-0.23393	Private room	45	2
 20170351	"Studio flat in central London - Zone 1 
+Kensington"	143558822	Diana	Kensington and Chelsea	51.49414	-0.17674	Entire home/apt	75	5
+21086035	"Top floor large ensuite bathroom  
 Bedroom with sofa and TV/wifi"	41528394	Michael	Merton	51.40507	-0.20844	Private room	90	1
 21357168	"Collingwood 
+Darling how"	150757321	Eduardo Otavio	Tower Hamlets	51.51489	-0.07291	Private room	50	1
+21485531	"Your Temporary Sanctuary 
 (Imperial Wharf SW62HW)"	60156569	Mohammad	Hammersmith and Fulham	51.47147	-0.18352	Private room	25	1
 21580789	"Heathrow Airport two bedroom flat
+Ideal stopover"	156944370	Francis	Hillingdon	51.49797	-0.42748	Entire home/apt	150	3
 21898022	"SOHO
+NEWLY RENOVATED STUDIO
 SUPER CENTRAL"	68000424	Christopher	Camden	51.51389	-0.12848	Entire home/apt	99	3
 22475445	"MODERN 2 BEDROOM FLAT 
+Free WiFi/ Now Tv O2 AREA"	46731840	Susie	Greenwich	51.48469	0.03401	Entire home/apt	69	1
 22792208	"Spacious double room in comfortable
+homely flat."	24397073	Steve	Wandsworth	51.47131	-0.17047	Private room	35	2
+23954934	"Room to rent breakfast inc. 
 Near Trendy Peckham"	23203409	Shelley	Lewisham	51.44677	-0.0588	Private room	29	1
+24909642	"Quality City Rooms 
 ZONE 1-2 Bethnal Green Station"	188318882	Abul	Tower Hamlets	51.52239	-0.05248	Private room	200	30
+25928657	"Artsy and Sunny 1 Bed Apt near 
 Elephant & Castle"	6687326	Emily	Southwark	51.48077	-0.08154	Entire home/apt	65	2
+26529888	"Boutique Studio Apartment 10
 West Kensington"	198261163	Boutique Apartments W14	Hammersmith and Fulham	51.48839	-0.20764	Entire home/apt	85	1
 26556060	"Boutique Apartment 1
+West Kensington"	198261163	Boutique Apartments W14	Hammersmith and Fulham	51.48839	-0.20764	Entire home/apt	95	1
+26631655	"Boutique Studio Apartment 11
 West Kensington"	198261163	Boutique Apartments W14	Hammersmith and Fulham	51.48839	-0.20764	Entire home/apt	80	1
+26662618	"Boutique Studio Apartment 2 
 West Kensington"	198261163	Boutique Apartments W14	Hammersmith and Fulham	51.48839	-0.20764	Entire home/apt	90	1
 26879943	"Large Room + Private
+Bathroom + Gym Canary Wharf"	202187038	Kyriacos	Tower Hamlets	51.51284	-0.02026	Private room	30	2
 26839187	"Boutique Studio Apartment 6
+West Kensington"	198261163	Boutique Apartments W14	Hammersmith and Fulham	51.48839	-0.20764	Entire home/apt	90	1
+26992458	"Lovely Single bedroom!!!
 
+Family atmosphere."	68550692	Lú	Southwark	51.50074	-0.04988	Private room	30	2
 27548941	"Bright room -10mins to king cross 
+own bathroomliving room"	49981130	Suetling	Islington	51.55544	-0.11858	Private room	50	4
+28182546	"It’s all about location.
 Central/Marylebone."	192135297	Androulla	Westminster	51.52221	-0.1595	Entire home/apt	195	2
 28565080	"1 bed private 
+flat perfect transport to centre."	67371094	Fred	Barnet	51.60611	-0.18861	Entire home/apt	54	3
 28750292	"ROOM AT OLYMPIA EXHIBITION CENTRE
+HIGH SPEED WiFi"	128251840	Thea	Kensington and Chelsea	51.49857	-0.20914	Private room	60	7
+29353372	"Lovely 4 bed house & garden
 STOKE NEWINGTON LONDON"	16870057	Suzanne	Hackney	51.55958	-0.0758	Entire home/apt	300	2
 29797289	"Shirley Park/ Addiscombe
+Clean & Cosy single room"	90529911	Angela	Croydon	51.37938	-0.06807	Private room	35	3
+30944600	"End suite with private bathroom.
 Close to the city"	207619004	Stefene	Newham	51.53348	-0.00858	Private room	28	1
 31192541	"Double room 
+East Dulwich"	217878975	Coral	Southwark	51.45303	-0.0676	Private room	90	3
 33305439	"No Lounge Rm/ Zone 1. 
+Suit 2-3 days mid week stay"	8489730	Phoenix	Camden	51.52966	-0.14227	Private room	55	2
 33682673	"Spacious Home on Quiet Square
+- Angel Islington"	26553063	Rollo	Islington	51.54527	-0.10861	Entire home/apt	180	4
+33893872	"Chic Urban Pad :
 Marvellous Maida Vale"	87685572	Victoria	Brent	51.52972	-0.19534	Private room	68	2
 34475830	"Room in Richmond 
+20 min Heathrow"	46799552	Sakine	Richmond upon Thames	51.4545	-0.31138	Private room	50	2
+35419123	"HEATHROW 3 BED PENTHOUSE
 One min to train station"	266564079	Anthony	Hillingdon	51.50302	-0.42154	Entire home/apt	250	3
+36512693	"Dorm near Central London 
 (Breakfast incl )"	274507742	Londonpark	Lambeth	51.48082	-0.11692	Shared room	35	1
 36927265	"(Teach MagRAith
+(McGrath's house)
 Room (2)"	195967425	Mauricia	Havering	51.54862	0.2057	Private room	36	1
 36927883	"McGrath's Comfy  house 
+(room 1) (Teach MagRaith"	195967425	Mauricia	Havering	51.550705	0.207347	Private room	36	1
 37518882	"Cosy bedroom
+InCamberwell"	1520241	Antonio	Southwark	51.4771	-0.08851	Private room	66	5
 37656772	"City Pad
+ A day in london this is the pad for you"	156454596	Nermen	Ealing	51.51964657	-0.261510907	Entire home/apt	91	1
+37937528	"7天。1.14-1.21
 seven days
+one room.one bed"	287476427	Jiaojiao	Hackney	51.52653	-0.08381	Private room	139	15
 38153778	"Double bed, Private bathroom 
+30 mins from London"	289888063	Jamie	Havering	51.57344	0.16995	Private room	44	3
+38565587	"Private room in flat
  Free parking on premises"	92106905	Seun	Greenwich	51.49663	0.07864	Private room	60	2
+39110906	"Royal Arsenal Woolwich 
 30 minutes from Centre"	299774306	Kristina	Greenwich	51.4787	0.07224	Private room	71	1
 40122910	"CENTRAL LONDON 
+Fantastic location, Regents Park"	308111190	Tas	Camden	51.52853	-0.13748	Entire home/apt	165	7
 40996490	"Stylish flat 
+1 bed available in 2 bed apartment"	25257475	Layla	Hammersmith and Fulham	51.48393	-0.19625	Entire home/apt	150	2
 40967655	"2 Bed 2 Bathroom Gated Apartment
+Inc free Parking"	190160342	Gengis	Bromley	51.39362317	0.025617477	Entire home/apt	140	7
 40972647	"Spacious Double Room.
+Feel like you're Home🏡"	319429915	Delowar	Barking and Dagenham	51.5613	0.18149	Private room	30	2
+41282923	"warm atmosphere
 clean and tidy
+easy transport"	324242901	Didar	Hackney	51.53134	-0.07873	Private room	40	2
+42223215	"Clapham Junction
 Private Room with en-suite"	153554889	George	Wandsworth	51.46191	-0.16845	Private room	80	3
 42799317	"Luxurious Double Bedroom 
+Uxbridge"	93808527	Alex	Hillingdon	51.5394	-0.48324	Private room	60	4
+44304648	"Large Bedroom 🛌
 🏡Balcony & Canal Views 🏡"	255949615	James	Tower Hamlets	51.51256	-0.02952	Private room	59	2
+44594056	"quite place
 VERY GOOD LOCATION"	360872888	Rachid	Westminster	51.51431	-0.16463	Private room	90	1
 45504759	"Massive 1 Bedroom  apartment 
+New Build"	284987338	Michael	Lambeth	51.42413	-0.09807	Entire home/apt	140	7
 45720546	"Good size Rm. Stud/Proff.
+Long term stay possible"	36232723	Christopher	Kensington and Chelsea	51.51229	-0.21619	Private room	28	14
 50070654	"Gamesnight,Birthday
+baby/bridal shower|East London"	86248517	Grace	Barking and Dagenham	51.55912	0.12981	Entire home/apt	129	1
+50135048	"GTankU
 Bespoke for individuals"	361911793	Tj	Merton	51.42169	-0.18829	Private room	210	1
 50204074	"Double bedroom 
+Available for couple or single."	385770984	Faisal	Wandsworth	51.42015	-0.16493	Private room	100	1
+50228763	"This is a lovely 1Bedroom flat with a big living room and a king Sofa-bed, a bathroom and a separate toilet, and a fully equipped kitchen.
 the flat is tidy and cosy, can host up to 4 people.
+It is very close to central London"	405456282	Hani	Tower Hamlets	51.52836	-0.01406	Entire home/apt	140	5
 50362810	"Amazing view flat 
+
 Free car parking"	88583011	Gustavo	Tower Hamlets	51.49367	-0.01827	Entire home/apt	88	4
 50387109	"A happy place 🌈💜💚💛💙🧡❤️
+Where the adventure starts."	32470173	Selina	Barnet	51.65022	-0.20308	Entire home/apt	80	4
+50444019	"Visitng London? 
 Comfy Singleroom available now."	407544674	Yusuf	Haringey	51.59473	-0.10072	Private room	29	1
+51033334	"Superb 1 Bed Flat -
 Brick Lane (Free Parking)"	38569692	Foca Ofer	Tower Hamlets	51.52445	-0.06609	Entire home/apt	113	2
+51247090	"A lovely cottage in the heart of Shirley, 10m by bus from East Croydon train station and 20m train to London Victoria.
 
+Ideal for couples,singles or students."	414907769	Theresa	Croydon	51.37213	-0.05049	Private room	40	1
+52031252	"Lulu's self contained flat
  free on street parking"	286122164	Michael	Sutton	51.35294	-0.16755	Entire home/apt	75	1
 52217116	"Beautiful new build 5bed
+townhouse"	419671711	Stephen	Enfield	51.63619	-0.13474	Entire home/apt	240	2
+52342565	"Cool and modern 
 2-bed apartment in central London"	423650905	Henrik	Tower Hamlets	51.51584	-0.0719	Entire home/apt	185	6
+52350496	"Modern 2 bedroom
 Apartment with free parking"	88532939	Laura	Tower Hamlets	51.48807	-0.01895	Entire home/apt	120	5
 52322969	"SHABBY CHIC CHELSEA 
+STUDIO IN 24HR DOORMAN BLDG."	423469343	Patrick	Kensington and Chelsea	51.49219	-0.16447	Entire home/apt	106	4
 52396218	"Large double bedroom 3 minutes from
+Station"	4300171	Kasia	Haringey	51.58262	-0.07114	Private room	55	12
 52650364	"Cute 1 bed/studio with free parking and 0.1m from zone 2 station. 
+
 Deptford/New Cross is a cool, quirky area with lots of independent restaurants and cocktail bars. 
+
 The train takes 5 mins to get to London Bridge. Also a DLR and Overground."	18234539	Jamila	Lewisham	51.47606	-0.02967	Entire home/apt	98	5
 52680636	"single room (1 double bed)
+double room for 2 peopl"	426440856	Pritesh	Redbridge	51.59336	0.07465	Private room	150	7
 52736237	"The Finsbury Guesthouse .
+New and Refurbished"	421245848	Antonio	Hackney	51.56337	-0.10182	Hotel room	190	1
 52810383	"Private room - Greater London
+Greater London Home"	99100580	Gabriela	Hammersmith and Fulham	51.49712	-0.2119	Private room	62	5
 53036943	"Wellington Apartment 
+ Home Away fr"	339811751	Olugbenga	Greenwich	51.48803	0.06334	Entire home/apt	220	20
+53169673	"Small studio with
  private bathroom with hob &oven"	58354698	Adnan Enaiyid	Brent	51.56347	-0.26231	Entire home/apt	122	2
 53226539	"The Congress 
+4Bedroom, 7beds Relaxation Home"	108223343	Hyacinth	Greenwich	51.48904498	0.117555216	Entire home/apt	220	3
+53271498	"Peak Serene
 Lovely 2-bedroom close to local amnty"	136215292	Abike	Havering	51.5287049	0.1703704	Entire home/apt	150	2
+53505308	"Charming Notting Hill
 Peaceful 1 Bedroom"	9888049	Marina	Westminster	51.51758	-0.19008	Entire home/apt	200	28
 53712819	"One-Bedroom 
+Apartment In The Hart Of City London"	435026884	Ahmed	Islington	51.521307	-0.105791765	Entire home/apt	330	4
+53807659	"NEW Boutique Hotel
 Single Room ."	421245848	Antonio	Islington	51.56223	-0.10178	Private room	180	1
 54029818	"Professional and
+Cheerful space for short stays."	299567125	Bernice	Kingston upon Thames	51.38276	-0.2702	Private room	31	2
+54134115	"NNK Air BnB. 
 
+The luxury you need away from home!"	438864109	Nchwinang	Enfield	51.64887	-0.04128	Entire home/apt	97	1
+54378165	"Cheerful Gem of Barking & Dagenham
 3 Bedroom House"	441347328	Stay	Barking and Dagenham	51.54719	0.11945	Entire home/apt	150	3
 5.54204E+17	"Bright 1 Bedroom Apartment
+Haggerston"	418177493	Matt	Hackney	51.53861	-0.07666	Entire home/apt	90	91
 5.59047E+17	"HOT SPUR fans. 
+Space in a flat for the fans"	160570104	Pettia Lola	Haringey	51.60656	-0.06149	Private room	91	1
 5.58436E+17	"The East London Colourful House!
+Dbl bed available"	69263600	Fabiana	Waltham Forest	51.55216	0.00947	Private room	40	1
+5.64936E+17	"NEW GROUND FLOOR FLAT 
 LONDON"	102957169	Edan	Barnet	51.61327	-0.24978	Entire home/apt	73	5
+5.68539E+17	"The SkyLondon Apt
 2 bedrooms, sleeps up to 6"	5747631	Cecilia	Southwark	51.48761849	-0.091882398	Entire home/apt	90	30
+5.81356E+17	"Private Double 
 Bedroom inMarylebone"	427372525	Fatme	Westminster	51.51887	-0.16703	Private room	74	1
+5.79683E+17	"Light and airy 3 bedroom
 London garden house"	56234339	Penny	Lewisham	51.46961975	-0.049038	Entire home/apt	116	5
 5.84565E+17	"Lovely one bedroom 
+In nice studio ,wc ,shower"	442881145	سيدي	Lewisham	51.44610157	-0.023155669	Entire home/apt	307	1
+5.87408E+17	"Budget Double Room with shared bathroom
 Kingscross"	259278549	Joe A Joseph	Islington	51.53066	-0.11719	Private room	74	1
 5.89681E+17	"TOP QUALITY Studio 
+Archway Tube Station"	141312884	Chun	Islington	51.56605	-0.13139	Private room	34	25
+5.93999E+17	"Lovely Studio / Loft Regents Canal View 
 Angel"	84113528	Julia	Islington	51.53379	-0.09661	Entire home/apt	160	4
+5.94694E+17	"TOP QUALITY Studio
 Archway Tube Station"	141312884	Chun	Islington	51.56807	-0.12955	Private room	30	30
+6.0133E+17	"Cosy Studio Flat Wembley Stadium 
 W/ Kitchenette"	82226325	Luke	Brent	51.56017	-0.29431	Entire home/apt	230	1
 6.15677E+17	"Beautiful 1 bedroom flat in Marylebone,
+London"	209968225	Jonathan	Westminster	51.52145	-0.16646	Entire home/apt	100	1
 6.17388E+17	"Master bedroom in shared house 
+No smoking only"	286042520	Rukhsana	Waltham Forest	51.574753	-0.008438	Private room	45	7
 6.18812E+17	"Studio in Heart of Wapping,
+Near Tower Bridge"	137371103	Ilyass	Tower Hamlets	51.50636669	-0.055717331	Entire home/apt	131	3
 6.20006E+17	"GARETH'S ROOMS
+
 2 Comfy Rooms in shared House W12"	100167710	Gareth	Hounslow	51.481201	-0.310142	Private room	36	2
 6.2017E+17	"1-bedroom
+condo in Greater
 London"	443376743	Adam	Westminster	51.51377	-0.15984	Entire home/apt	149	2
 6.22399E+17	"Cosy studio No living room 
+Suit regular commuter"	8489730	Phoenix	Camden	51.52931	-0.14317	Private room	95	2
+6.21851E+17	"Nice one bedroom flat Regents Park
 Concierge 24/7"	70982498	Ahmed	Westminster	51.5337	-0.16582	Entire home/apt	120	2
 6.24001E+17	"Bedroom in shared house available
+15th -26th may"	15615132	Alex	Hackney	51.54933	-0.0404	Private room	35	3
 6.24372E+17	"A lovely 3 bedroom  apartment 
+in kensington"	458535686	Hanan	Kensington and Chelsea	51.4969	-0.2041	Entire home/apt	232	3
+6.25199E+17	"Abbots Park House
 2 Bed flat in tranquil location"	458744961	Jenny	Bromley	51.39875	0.087368	Entire home/apt	150	2
 6.27239E+17	"Large one bed room flat 
+Can sleep up to 5 people"	264237159	Niclas	Lambeth	51.473972	-0.121135	Entire home/apt	250	1
 6.2895E+17	"St Christopher’s place apartments 
+
 Marylebone"	453769838	Brian	Westminster	51.51632	-0.15219	Entire home/apt	245	15
 6.31149E+17	"Sunny private room in a lovely flat 
+ - Dalston"	49950864	Alice	Hackney	51.5468	-0.06893	Private room	90	2
 6.33241E+17	"Tabitha 2
+Peaceful and warm welcoming place."	460241650	Dorcas	Newham	51.525257	0.021732	Private room	35	1
 6.40528E+17	"Adorable studio flat 
+Garden summer house."	224288911	Michal Tricia	Ealing	51.5247025	-0.3348213	Entire home/apt	95	4
 6.39857E+17	"Howard the camper van is for your dream
+Holiday"	26990274	Caroline	Camden	51.56495	-0.14127	Entire home/apt	90	5
+6.46347E+17	"Victoria & Albert Museum
 town house central london"	308331216	Caty	Kensington and Chelsea	51.49447	-0.18269	Private room	382	2
 6.50607E+17	"London Flat with
+ Garden"	131057312	Edith	Lewisham	51.43663013	-0.018978529	Entire home/apt	120	3
 6.49295E+17	"Cheerful 2 bedroom house 
+single room
 Free parking"	294753246	Biliana	Merton	51.4082912	-0.1802613	Private room	31	1
+6.49868E+17	"Large Double Room 
 Close to London"	463662056	Alayha	Lewisham	51.4776	-0.05101	Private room	63	1
 6.51852E+17	"Shabby-Chic, Cold Shower Heaven.
+Next to the Lido"	67428528	Hayley J S	Camden	51.55584019	-0.149492607	Entire home/apt	119	2
 6.53417E+17	"Brand new 2 bed flat 
+London"	102957169	Edan	Barnet	51.614842	-0.249991916	Entire home/apt	131	5
 6.54782E+17	"Lovely 1- bedroom condo in Richmond 
+London"	76091758	Sergio	Richmond upon Thames	51.4642975	-0.2833528	Private room	125	3
 6.5482E+17	"Lovely 1 bedroom condo in Richmond 
+London"	76091758	Sergio	Richmond upon Thames	51.4642975	-0.2833528	Private room	90	3
 6.5542E+17	"Modern 3 bedroom
+Home near Richmond/London"	465657914	Oliver	Kingston upon Thames	51.40727494	-0.282033113	Entire home/apt	235	2
 6.5624E+17	"Cosy bredrooms with private bathroom
+London Bridge"	465834166	Luisa And Luzk	Southwark	51.50503813	-0.087468848	Private room	104	1
 6.56758E+17	"Lovely Cosy Double Bedroom with 
+ secure parking"	108874330	Alex	Bexley	51.45252601	0.172302001	Private room	60	1
 6.61534E+17	"Comfortable room
+London .Females preferred"	464869788	Magda	Ealing	51.50968041	-0.287612502	Private room	69	1
 6.63788E+17	"COZY STUDIO
+Close to the station
 near Brick Lane"	317551411	Diana	Tower Hamlets	51.52828882	-0.05902225	Entire home/apt	147	2
+6.69952E+17	"Single Room Kings Cross Central London
 Eurostar"	187608072	Dee	Camden	51.53438359	-0.131131522	Private room	59	2
+6.70141E+17	"BEAUTIFUL APARTMENT
 WESTMINSTER
+CENTRAL LONDON"	469256603	Sonia	Westminster	51.4909302	-0.1446951	Entire home/apt	176	2
 6.7015E+17	"COSY ROOM 
+Central Location"	206396567	Gokhan	Tower Hamlets	51.5192516	-0.055495977	Private room	56	2
 6.71765E+17	"3bedroom house +outside space+garage
+pets welcome"	45210341	Gabriela	Westminster	51.51843597	-0.148869685	Entire home/apt	400	1
+6.71811E+17	"Lovely Double BedRoom in Decorated Friendly 
 House"	147341687	Maryam	Brent	51.58476542	-0.270833708	Private room	45	7
 6.73854E+17	"Lovely 1 bedroom flat
+With balcony"	104908426	Monti	Enfield	51.64498026	-0.146879598	Entire home/apt	164	2
+6.75158E+17	"9 Bed Large Townhouse
 A Hidden Gem nr Holloway Rd"	8346498	Dennis	Islington	51.5552634	-0.1265305	Entire home/apt	484	2
+6.76928E+17	"XL. 2 bed 2 bath and 2 parking garage.
 WOW views."	471006531	Florina	Tower Hamlets	51.49743688	-0.016982156	Entire home/apt	259	1
 6.81386E+17	"Spacious 2 -Bed Apartment
+Garden/Free Parking/Wifi"	90629143	Oluka	Bromley	51.4164355	-0.0655612	Entire home/apt	94	2
+6.83874E+17	"COSY DOUBLE ROOM 
 CLOSE TO WEMBLEY STADIUM& ARENA"	145109223	Charming	Brent	51.55809316	-0.285440047	Private room	85	1
+6.84487E+17	"Lovely furnished studio room
+
+
 
 
 fitted kitchen"	446854302	Chandni	Barnet	51.62776806	-0.274753862	Entire home/apt	91	1
 6.85132E+17	"Cheerful single bedroom. 
+With free parking."	423741622	Jose	Barking and Dagenham	51.55998425	0.153428885	Private room	37	1
+6.86937E+17	"Private room in Portobello Road 
 Notting hill"	24291758	Alma	Kensington and Chelsea	51.51200272	-0.199093252	Private room	51	1
+6.86954E+17	"Private bedroom ✨Prime Location⭐
 Wembley central"	471015237	Shraddha	Brent	51.54910626	-0.302785969	Private room	44	1
 6.85989E+17	"(C) amazing 2 bedroom
+Flat with balcony"	465147517	Tasnia	Camden	51.53011792	-0.129336592	Entire home/apt	188	1
 6.86001E+17	"3 BEDROOM LUXURY
+APARTMENT IN HENDON"	104908426	Monti	Barnet	51.5872001	-0.2287226	Entire home/apt	450	3
 6.89619E+17	"Boho ex-tobacconist 
+Victorian terrace East London"	124606841	Josh	Hackney	51.55618939	-0.081892284	Entire home/apt	350	7
 6.8879E+17	"True Joy
+
 Serenity in the heart of London"	5302348	Tj	Enfield	51.66204392	-0.053832376	Private room	90	1
 6.88904E+17	"Cheerful room in shared house.
+Free parking"	39049800	Errol	Ealing	51.5331433	-0.35637673	Private room	70	1
+6.91281E+17	"No Frills 
 Bed To Rest Your Head."	443150667	Sandra	Croydon	51.39286342	-0.076086894	Private room	30	1
 6.94926E+17	"New house. 
+2 bedrooms, 
 3 bathrooms.
+Notting Hill"	3337206	Alan	Kensington and Chelsea	51.51418365	-0.205913611	Entire home/apt	375	3
 6.94293E+17	"Studio Flat in Greater London, 
+near tube station"	473662842	Malaika	Hounslow	51.47802957	-0.360132015	Entire home/apt	60	2
+6.95006E+17	"Lovely 1-bedroom serviced apartment 
 London"	382869947	Aaron	Bromley	51.41574394	-0.053133957	Entire home/apt	49	1
+7.05777E+17	"Lovely 4 bed house 6 Beds sleeps 8 
 Woolwich"	386374754	Tony	Greenwich	51.49918659	0.090024995	Entire home/apt	210	3
 7.08572E+17	"Private room with en-suite 
-7.10003E+17	"~*Best Islington Location*~
-7.09397E+17	"2 Bedroom House
+Room will be clean"	478069289	Abraham	Barking and Dagenham	51.57399185	0.144671434	Private room	6
